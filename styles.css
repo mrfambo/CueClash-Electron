@@ -1,0 +1,100 @@
+#components-layout-demo-responsive .logo {
+    height: 32px;
+    background: #333;
+    border-radius: 6px;
+    margin: 16px;
+}
+ 
+
+.ant-carousel .slick-slide {
+    text-align: center!important;
+    height: 300px!important;
+    background: #494747;
+    overflow: hidden;
+  }
+  #challengeResult {
+   
+  }
+  #challengeResult h1 {
+    display: list-item;
+    margin:auto;
+    font-weight: 800;
+    font-size: 100px;
+    color:white;
+    vertical-align: middle;
+  }
+  #challengeResult h2 {
+    display: list-item;
+    margin:auto;
+    font-weight: 600;
+    font-size: 60px;
+    color:white;
+    vertical-align: middle;
+  }
+  #challengeResult h3 {
+    display: list-item;
+    margin:auto;
+    font-weight: 300;
+    font-size: 40px;
+    color:white;
+    vertical-align: middle;
+  }
+  #challengeList{
+      margin-top: 10px;
+      padding: 24px;
+      background-color: #ecf0f1;
+      text-align: center
+  }
+  #challengeList:hover{
+      background-color: #bdc3c7;
+  }
+  #challengeNameMain{
+      margin: auto;
+      max-width: 100px;
+      padding: 10px;
+      background-color: #34495e;
+      color: white;
+      text-align: center;
+  }
+  #headingChallengename{
+    margin: 1em 0 0.5em 0;
+	color: #343434;
+	font-weight: normal;
+	font-family: 'Ultra', sans-serif;   
+	font-size: 36px;
+	line-height: 42px;
+	text-transform: uppercase;
+	text-shadow: 0 2px white, 0 3px #777;
+  }
+
+  .Row
+  {
+      display: table;
+      width: 100%; /*Optional*/
+      table-layout: fixed; /*Optional*/
+      border-spacing: 10px; /*Optional*/
+      height: 10vh;
+
+  }
+  .Column
+  {
+      display: table-cell;
+      /* background-color: red; Optional */
+      vertical-align: middle;
+      text-align: center;
+      
+  }
+  .choice{
+    border-radius: 25px;
+    border: 2px solid #99E920;
+    padding: 20px;
+    font-size: 12px;
+    cursor: pointer;
+  }
+  .choice:hover{
+    border-radius: 25px;
+    border: 2px solid #1C53E9;
+    padding: 20px;
+    font-size: 12px;
+    cursor: pointer;
+  }

@@ -1,0 +1,27 @@
+{
+  "name": "CueClash",
+  "version": "1.0.0",
+  "description": "Desktop Client for CueClash",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "",
+  "keywords": [
+    "cueclash",
+    "snooker",
+    "pool",
+    "snookersoftware",
+    "poolsoftware"
+  ],
+  "author": "Ali Muqaddas",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "asar": "^0.13.0",
+    "electron": "~1.7.8",
+    "electron-packager": "^9.1.0",
+    "electron-rebuild": "^1.6.0",
+    "electron-squirrel-startup": "^1.0.0",
+    "electron-winstaller": "^2.6.3"
+  }
+}
